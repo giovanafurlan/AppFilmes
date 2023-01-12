@@ -1,3 +1,5 @@
-# filmes
+# Filmes
 
-Aplicativo para o exercicio 03 - Requisição com a lista de filmes
+Exercício 3
+
+Aplicativo em React Native para listagem de filmes
